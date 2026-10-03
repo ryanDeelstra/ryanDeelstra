@@ -23,4 +23,4 @@ AI systems, consumer products, and performance-minded engineering.
 
 ---
 
-![Ryan's 3D contribution chart](./profile-3d-contrib/profile-night-view.svg)
+![Ryan's 3D contribution chart](./profile-3d-contrib/profile-green.svg)
