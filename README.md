@@ -1,6 +1,6 @@
 # Ryan Deelstra
 
-**AI Engineer · Computer Science @ UT Austin**
+**AI Engineer · Turing · Computer Science Honors @ UT Austin · Superbuilder · Founder**
 
 I build software that feels sharp on the surface and rigorous underneath:
 AI systems, consumer products, and performance-minded engineering.
